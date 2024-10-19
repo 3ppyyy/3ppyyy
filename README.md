@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an Information Technology student from University of the East Caloocan.<br>I enjoy coding, especially in web development and software projects.<br>I'm always exploring new technologies and improving my skills.<br>I'm open to collaboration, learning from others, and contributing to the tech community.<br><br>
+I'm an Information Technology student from University of the East Caloocan.<br>I enjoy coding, especially in web development and software projects.<br>Always exploring new technologies and improving my skills.<br>Open to collaboration, learning from others, and contributing to the tech community.<br><br>
 
 
 ## 🌐 Socials:
